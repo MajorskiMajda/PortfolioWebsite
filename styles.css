@@ -310,7 +310,9 @@ footer p {
 
 }
 
-
+.read-more:hover{
+    cursor: pointer;
+}
 
 footer a {
     align-items: center;
@@ -567,6 +569,9 @@ h3 {
 .contact-form button[type="submit"]:hover {
     transform: scale(1.05);
     transition: transform 0.3s ease-in-out;
+    background-color: #00c3ff;
+    color: white;
+    cursor: pointer;
 }
 
 .info {
