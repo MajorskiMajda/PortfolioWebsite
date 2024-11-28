@@ -1,0 +1,1 @@
+Weather App is a simple Node.js application that fetches real-time weather data using an external API. The app's front end is built with HTML, CSS, and JavaScript, featuring a clean and functional design. It uses Express.js on the back end to handle server-side operations and API requests.
