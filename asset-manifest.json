@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/MajorskiMajda/Portfolio/static/js/main.231e82a9.js",
-    "index.html": "/MajorskiMajda/Portfolio/index.html",
-    "main.231e82a9.js.map": "/MajorskiMajda/Portfolio/static/js/main.231e82a9.js.map"
+    "main.js": "/PortfolioWebsite/static/js/main.231e82a9.js",
+    "index.html": "/PortfolioWebsite/index.html",
+    "main.231e82a9.js.map": "/PortfolioWebsite/static/js/main.231e82a9.js.map"
   },
   "entrypoints": [
     "static/js/main.231e82a9.js"
