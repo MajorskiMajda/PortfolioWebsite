@@ -1,0 +1,1 @@
+FlappyBirdGame is a simple browser-based game built using HTML, CSS, and JavaScript.
