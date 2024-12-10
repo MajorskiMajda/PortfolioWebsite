@@ -1,4 +1,5 @@
-{"homepage": "https://MajorskiMajda.github.io/PortfolioWebsite",
+{
+  "homepage": "https://MajorskiMajda.github.io/PortfolioWebsite",
   "name": "portfolio-web",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +12,7 @@
     "@testing-library/user-event": "^13.5.0",
     "animate.css": "^4.1.1",
     "emailjs-com": "^3.2.0",
+    "postcss": "^8.4.49",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.0.1",
@@ -23,6 +25,8 @@
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "prefix": "postcss ./public/styles.css --output ./dist/styles.css",
+
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -45,6 +49,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0"
+    "autoprefixer": "^10.4.20",
+    "gh-pages": "^6.2.0",
+    "postcss-cli": "^11.0.0"
   }
 }
